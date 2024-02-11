@@ -18,6 +18,5 @@ async  function handleLogin(e) {
     },
     body: stringFiedFormData,
   })
-  console.log("yaswanth")
   console.log(response)
 }
